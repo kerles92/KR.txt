@@ -2,6 +2,6 @@
 
 Rot
 Blau
-Hellblau
 Magenta
 Grün
+Super!
